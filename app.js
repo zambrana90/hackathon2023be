@@ -5,7 +5,7 @@ const logger = require('morgan');
 const express = require('express');
 const cors = require('./config/cors.config');
 
-require('./config/db.config');
+// require('./config/db.config');
 
 const app = express();
 

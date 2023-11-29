@@ -21,6 +21,9 @@
     "multer-storage-cloudinary": "^4.0.0",
     "node-fetch": "^2.6.7"
   },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
   "author": "",
   "license": "ISC"
 }
